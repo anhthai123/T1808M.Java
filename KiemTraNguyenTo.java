@@ -31,6 +31,3 @@ public class Assignment1a {
             System.out.println(n+" khong phai la so nguyen to");
     }
 }
-    Kết thúc cuộc trò chuyện
-        Nhập tin nhắn...
-
